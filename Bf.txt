@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Boyfriend-Embarrassed {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -5px;
+}
+
+.sprite-Boyfriend-Grabbed {
+    width: 884px;
+    height: 1053px;
+    background-position: -899px -5px;
+}
+
+.sprite-Boyfriend-Mad {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -1068px;
+}
+
+.sprite-Boyfriend-Sad {
+    width: 884px;
+    height: 1053px;
+    background-position: -899px -1068px;
+}
+
+.sprite-Boyfriend-Smile {
+    width: 884px;
+    height: 1053px;
+    background-position: -1793px -5px;
+}
+
+.sprite-Boyfriend-Sweating-Breathing {
+    width: 884px;
+    height: 1053px;
+    background-position: -1793px -1068px;
+}

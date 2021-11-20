@@ -1,0 +1,62 @@
+.stitches-sprite(@x: 0, @y: 0, @width: 0, @height: 0) {
+    background-position: @x @y;
+    width: @width;
+    height: @height;
+}
+
+.sprite {
+    background-image: url(spritesheet.png);    background-repeat: no-repeat;
+    display: block;
+
+    &.sprite-TutorialNotSelected {
+        .stitches-sprite(-5px, -5px, 218px, 78px);
+    }
+
+    &.sprite-Week1-NotSelected {
+        .stitches-sprite(-5px, -93px, 290px, 78px);
+    }
+
+    &.sprite-Week1Selected {
+        .stitches-sprite(-5px, -181px, 290px, 78px);
+    }
+
+    &.sprite-Week2-NotSelected {
+        .stitches-sprite(-5px, -269px, 290px, 78px);
+    }
+
+    &.sprite-Week2Selected {
+        .stitches-sprite(-5px, -357px, 290px, 78px);
+    }
+
+    &.sprite-Week3-NotSelected {
+        .stitches-sprite(-5px, -445px, 290px, 78px);
+    }
+
+    &.sprite-Week3Selected {
+        .stitches-sprite(-5px, -533px, 290px, 78px);
+    }
+
+    &.sprite-Week4-NotSelected {
+        .stitches-sprite(-5px, -621px, 290px, 78px);
+    }
+
+    &.sprite-Week4Selected {
+        .stitches-sprite(-5px, -709px, 290px, 78px);
+    }
+
+    &.sprite-WeekAudNotSelected {
+        .stitches-sprite(-5px, -797px, 352px, 77px);
+    }
+
+    &.sprite-WeekAudSelected {
+        .stitches-sprite(-5px, -884px, 352px, 77px);
+    }
+
+    &.sprite-WeekChurch-NotSelected {
+        .stitches-sprite(-5px, -971px, 316px, 78px);
+    }
+
+    &.sprite-WeekChurchSelected {
+        .stitches-sprite(-5px, -1059px, 316px, 78px);
+    }
+}

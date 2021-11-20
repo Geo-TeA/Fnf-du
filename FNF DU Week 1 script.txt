@@ -1,0 +1,19 @@
+﻿:Set brightness -100:
+:DadMad: Girlfriend! Time for dinner!
+:Set brightness 0:
+:GfEmb: …
+:BfSad: …
+:Set brightness -100:
+:DadMad: …
+:Set brightness 0:
+:DadMad: Who the fuck is this?
+:GfEmb: H-
+:GfTou: He is my- uh, friend.
+:BfSmi: Names boyfriend.XML! Im looking for some hot babes, and your girl peaked my interest.
+:DadMad: If that is so, beat me in a battle.
+:DadMad: A RAP BATTLE!
+:BfSad: …
+:BfSmi: (Good thing me and gf practiced this shit)
+:BfSmi: Ok then lets go!
+:Broadcast Menu:
+:Stop this script:

@@ -1,0 +1,13 @@
+﻿:Switch Backdrop to Bf-Need-To-Piss:
+:BfMad: WHERE IS IT!?
+:StcsUhh: Uhm, hello there, are you here to join the churches choir? You seem fit for singing!
+:BfEmb: NOPE JUST NEED THE BATHROOM.
+:StcsHap: Its okay, our bathrooms are usable for non-members!
+:BfSmi: THANK YOU-
+:StcsHap: But! You must donate at least $50 to the choir so we can buy more materials to practice for the big sing on Sunday in june!
+:Text speed: 0.01
+:StcsHap: We need around 1000 choir members! We only need 5 more!
+:TextSpeed: 0.03
+:BfMad: AHHHH I JUST NEED THE FUCKING BATHROOM!
+:Broadcast Menu:
+:Stop this script:

@@ -1,0 +1,29 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Stcs-Happy {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -5px;
+}
+
+.sprite-Stcs-Mad {
+    width: 884px;
+    height: 1053px;
+    background-position: -899px -5px;
+}
+
+.sprite-Stcs-Tantrum {
+    width: 884px;
+    height: 1053px;
+    background-position: -1793px -5px;
+}
+
+.sprite-Stcs-Uhhh {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -1068px;
+}

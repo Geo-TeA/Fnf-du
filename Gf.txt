@@ -1,0 +1,29 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Girlfriend-Embarrassed {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -5px;
+}
+
+.sprite-Girlfriend-Happy {
+    width: 884px;
+    height: 1053px;
+    background-position: -899px -5px;
+}
+
+.sprite-Girlfriend-Scared {
+    width: 600px;
+    height: 600px;
+    background-position: -1793px -5px;
+}
+
+.sprite-Girlfriend-Touch {
+    width: 600px;
+    height: 600px;
+    background-position: -1793px -615px;
+}

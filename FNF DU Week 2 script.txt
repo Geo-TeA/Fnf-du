@@ -1,0 +1,29 @@
+﻿:DadMad: Dammit, how are you so damn good!?!?
+:BfSmi: The confidence that ill get yo girl gives me strenth. I proven myself worthy.
+:GfHap: …
+:DadMad: To bad, you still got to convince her pop star mother.
+:BfEmb: …
+:BfSmi: Ok! But first, i wanna battle someone else, got any clues for someone who is willing to battle?
+:DadMad: There is those kids in that haunted house.
+:BfSmi: Ok! Lets go babe!
+:GfHap: OK!
+:Switch backdrop to Haunted hour:
+:BfSad: Ok i kinda regret this shit.
+:GfSca: Same.
+:Play sound Thunder:
+:GfSca: AAAAAAAAAAH
+:BfEmb: :[
+:Blank: **Open door creak**
+:BfSad: THE F-
+:Set brightness to -100:
+:S&PHappy: Hello there!
+:Set brightness to 0:
+:BfMad: WHO ARE YOU GUYS!?!?!?!?
+:S&PHappy: We are the spooky kids!
+:BfEmb: Oh.
+:BfSad: Can you let us in now? We dont like thunder and would not like to be struck by it.
+:S&PHappy: Sure!
+:Blank: They enter
+:Blank: **Door close**
+:BfSmi: Hey not so bad here!
+:GfHap: Yeah!

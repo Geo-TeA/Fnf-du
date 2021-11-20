@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Pico-Depressed {
+    width: 600px;
+    height: 600px;
+    background-position: -5px -5px;
+}
+
+.sprite-Pico-Mad {
+    width: 600px;
+    height: 600px;
+    background-position: -615px -5px;
+}

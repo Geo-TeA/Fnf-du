@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-MomHappy {
+    width: 884px;
+    height: 1053px;
+    background-position: -5px -5px;
+}
+
+.sprite-MomTeethBreak {
+    width: 884px;
+    height: 1053px;
+    background-position: -899px -5px;
+}
